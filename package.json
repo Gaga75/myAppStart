@@ -1,0 +1,19 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "devDependencies": {
+    "autoprefixer": "^6.4.1",
+    "bower": "^1.7.9",
+    "browser-sync": "^2.16.0",
+    "css-mqpacker": "^5.0.1",
+    "cssnano": "^3.7.5",
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.2.0",
+    "postcss": "^5.2.2",
+    "postcss-font-magician": "^1.4.0",
+    "postcss-sprites": "^4.0.0",
+    "precss": "^1.4.0"
+  }
+}

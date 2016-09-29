@@ -1,0 +1,19 @@
+/*@import "../bower_components/normalize-css/normalize.css";
+@import "sections/common";
+@import "sections/elements/header";
+@import "sections/elements/logo";
+@import "sections/elements/nav";
+@import "sections/pages/home";
+@import "sections/pages/about";
+@import "sections/pages/contacts";
+@import "sections/pages/price";
+@import "sections/elements/footer";
+@import "sections/elements/socials";
+@import "sections/elements/pop-up";
+*/
+h1{
+	color: #999;
+}
+h2{
+	color: #917;
+}
